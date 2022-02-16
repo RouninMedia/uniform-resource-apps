@@ -1,6 +1,7 @@
 # Single Document Apps
 A Single Document App is an app, where all the
 
+ - metadata
  - markup
  - styles
  - scripts

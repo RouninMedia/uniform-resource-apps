@@ -10,11 +10,6 @@ A Single Document App is an app, where all the
  
 are contained within a single file.
 
-____
-
-We often talk about javascript-powered **Single Page Apps** (SPAs).
-
-We don't talk nearly as much (or at all) about **Single Document Apps** in which *all* the metadata, styles, markup, images, scripts etc. are contained within a single document.
 ______
 
 ## Single Document Apps as Data URLs
@@ -31,4 +26,6 @@ A **Data URL App** (`HTML` + `CSS` + `JS`) which you can copy-paste into your br
 
 ### Plaintext:
 
-*data:text/html,<!DOCTYPE html><html><head><style>body{display:flex;justify-content:center;align-items:center;flex-direction:column;height:96vh;background-color:rgb(0,0,63);}h1,p{font-size:72px;text-shadow:1px 1px 1px rgb(255,255,255),1px -1px 1px rgb(255,255,255),-1px -1px 1px rgb(255,255,255),-1px 1px 1px rgb(255,255,255);animation:rotateColors 21s linear infinite;}@keyframes rotateColors{14.29%{color:yellow;}28.57%{color:orange;}42.86%{color:green;}57.14%{color:blue;}71.43%{color:indigo;}85.72%{color:violet;}}</style></head><body><h1>Mouse Position:</h1><p class="mouse-coordinates">x: 0<br>y: 0</p><script>const mouseCoordinates=document.querySelector('.mouse-coordinates');document.body.addEventListener('mousemove',(e)=>{mouseCoordinates.innerHTML=`x: ${e.screenX}<br>y: ${e.screenY}`})</script></body></html>*
+```
+data:text/html,<!DOCTYPE html><html><head><style>body{display:flex;justify-content:center;align-items:center;flex-direction:column;height:96vh;background-color:rgb(0,0,63);}h1,p{font-size:72px;text-shadow:1px 1px 1px rgb(255,255,255),1px -1px 1px rgb(255,255,255),-1px -1px 1px rgb(255,255,255),-1px 1px 1px rgb(255,255,255);animation:rotateColors 21s linear infinite;}@keyframes rotateColors{14.29%{color:yellow;}28.57%{color:orange;}42.86%{color:green;}57.14%{color:blue;}71.43%{color:indigo;}85.72%{color:violet;}}</style></head><body><h1>Mouse Position:</h1><p class="mouse-coordinates">x: 0<br>y: 0</p><script>const mouseCoordinates=document.querySelector('.mouse-coordinates');document.body.addEventListener('mousemove',(e)=>{mouseCoordinates.innerHTML=`x: ${e.screenX}<br>y: ${e.screenY}`})</script></body></html>
+```

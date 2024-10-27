@@ -9,7 +9,7 @@ But we don't tend to talk about **Uniform Resource Apps** or **URAs**.
 
 There's every reason why we should.
 
-Who doesn't want a copy-pastable URI which delivers an offline, interactive app into the browser?
+There is great utility in a copy-pastable URI which delivers an offline, interactive app into the browser.
 
 _____
 
@@ -20,6 +20,7 @@ A Single Document App is an app, where all the
  - markup
  - styles
  - scripts
+ - modules
  - data
  - images
  - vectors etc.

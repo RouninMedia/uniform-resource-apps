@@ -13,7 +13,7 @@ There is great utility in a copy-pastable URI which delivers an offline, interac
 
 _____
 
-## Before we start... a quick note on Single Document Apps
+## Before we start... a quick note on Single Document Apps (SDAs)
 A Single Document App is an app, where all the
 
  - metadata
@@ -29,7 +29,7 @@ are contained within a single file.
 
 ______
 
-## Converting Single Document Apps into Data URLs produces Uniform Resource Apps (URAs)
+## Converting SDAs into Data URLs produces Uniform Resource Apps (URAs)
 
 Once we have a **Single Document App (SDA)**, we can go further.
 

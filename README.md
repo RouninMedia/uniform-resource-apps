@@ -9,7 +9,7 @@ But we don't tend to talk about **Uniform Resource Apps** or **URAs**.
 
 There's every reason why we should.
 
-There is great utility in a copy-pastable URI which delivers an offline, interactive app into the browser.
+Not least, there is great utility in a copy-pastable URI which delivers an offline, interactive app into the browser.
 
 _____
 

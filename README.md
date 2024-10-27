@@ -29,7 +29,7 @@ are contained within a single file.
 
 ______
 
-## Uniform Resource Apps (URAs) - Single Document Apps as Data URLs
+## Converting Single Document Apps into Data URLs produces Uniform Resource Apps (URAs)
 
 Once we have a **Single Document App (SDA)**, we can go further.
 

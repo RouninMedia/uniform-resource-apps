@@ -7,7 +7,9 @@ On the web, we are long-familiar with the _UR-_ acronyms:
 
 But we don't tend to talk about **Uniform Resource Apps** or **URAs**.
 
-There's every reason why we should. Who doesn't want a copy-pastable URI which delivers an entire offline app into the browser?
+There's every reason why we should.
+
+Who doesn't want a copy-pastable URI which delivers an offline, interactive app into the browser?
 
 _____
 
@@ -28,9 +30,13 @@ ______
 
 ## Uniform Resource Apps (URAs) - Single Document Apps as Data URLs
 
-An incredibly useful feature of a **Single Document App** is that it can be shared as a single **Data URL** (optionally encoded using Base-64) which represents the entire app.
+Once we have a **Single Document App (SDA)**, we can go further.
+
+We can share the **SDA** as a single **Data URL** (optionally encoded using Base-64) which represents the entire app.
 
 We can call this a *Uniform Resource App* or **URA**.
+
+______
 
 **Working Example:**
 

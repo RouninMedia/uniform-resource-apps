@@ -1,5 +1,5 @@
 # Uniform Resource Apps (URAs)
-On the web, we are long-familiar with the _UR-_ acronyms:
+On the web, we have long been familiar with _UR-_ acronyms:
 
  - **URLs** _(Uniform Resource Locators)_
  - **URIs** _(Uniform Resource Indicators)_

@@ -1,4 +1,17 @@
-# Single Document Apps
+# Uniform Resource Apps (URAs)
+On the web, we are long-familiar with the _UR-_ acronyms:
+
+ - **URLs** _(Uniform Resource Locators)_
+ - **URIs** _(Uniform Resource Indicators)_
+ - **URNs** _(Uniform Resource Names)_
+
+But we don't tend to talk about **Uniform Resource Apps** or **URAs**.
+
+There's every reason why we should. Who doesn't want a copy-pastable URI which delivers an entire offline app into the browser?
+
+_____
+
+## Before we start... a quick note on Single Document Apps
 A Single Document App is an app, where all the
 
  - metadata
